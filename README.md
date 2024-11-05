@@ -2,7 +2,6 @@
 
 Welcome to **Cybersecurity Fundamentals**! This repository is a comprehensive guide to foundational cybersecurity concepts and practices. It’s designed for beginners who want to build a solid base in cybersecurity and understand the critical elements involved in securing systems and data.
 
----
 
 ## 📂 Repository Structure
 
@@ -19,7 +18,6 @@ The repository is organized into folders covering different areas of cybersecuri
 - **Incident-Response** - Steps for handling security incidents and implementing monitoring tools.
 - **Legal-and-Ethics** - Overview of compliance requirements and ethical considerations.
 
----
 
 ## 🚀 Getting Started
 
@@ -30,7 +28,6 @@ To get started, browse the folders to find Markdown files that cover each area i
    git clone https://github.com/yourusername/Cybersecurity-Fundamentals.git
 2. Explore the folders and topics.
 
----
 
 ## 📖 Topics Covered
 
@@ -43,7 +40,6 @@ This repository covers:
 - **Incident Response**: Handling breaches, monitoring, and SIEM.
 - **Legal and Ethical Aspects**: Cybersecurity laws and responsible practices.
 
----
 
 ## 🤝 Contributing
 
@@ -55,13 +51,11 @@ Contributions are welcome! If you have suggestions or additional resources to sh
 4. Push to the branch: ```git push origin feature/your-feature-name```.
 5. Open a pull request.
 
----
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
 ## 📚 Additional Resources
 
