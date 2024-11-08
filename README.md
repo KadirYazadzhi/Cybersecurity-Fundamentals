@@ -10,13 +10,13 @@ The repository is organized into folders covering different areas of cybersecuri
 ### 📁 Folder Overview
 
 - **Introduction** - Overview of cybersecurity and its importance. [➤](./1.&#32;Introduction&#32;to&#32;Cybersecurity.md)
-- **Principles-and-Concepts** - Key concepts like CIA Triad, risk management, and security models.
-- **Network-Security** - Basics of network defense mechanisms, including firewalls and VPNs.
-- **Data-Protection** - Essential data protection techniques such as encryption and DLP.
-- **Endpoint-Security** - Guidelines for protecting individual devices and patch management.
-- **IAM (Identity and Access Management)** - Access controls, authentication, and password policies.
-- **Incident-Response** - Steps for handling security incidents and implementing monitoring tools.
-- **Legal-and-Ethics** - Overview of compliance requirements and ethical considerations.
+- **Principles-and-Concepts** - Key concepts like CIA Triad, risk management, and security models. [➤](./2.&#32;Cybersecurity&#32;Principles&#32;and&#32;Concepts.md)
+- **Network-Security** - Basics of network defense mechanisms, including firewalls and VPNs. [➤](./3.&#32;Network&#32;Security.md)
+- **Data-Protection** - Essential data protection techniques such as encryption and DLP. [➤](./4.&#32;Data&#32;Protection.md)
+- **Endpoint-Security** - Guidelines for protecting individual devices and patch management. [➤](./5.&#32;Endpoint&#32;Security.md)
+- **IAM (Identity and Access Management)** - Access controls, authentication, and password policies. [➤](./6.&#32;Identity&#32;and&#32;Access&#32;Management&#32;(IAM).md)
+- **Incident-Response** - Steps for handling security incidents and implementing monitoring tools. [➤](./7.&#32;Incident&#32;Response&#32;and&#32;Security&#32;Operations.md)
+- **Legal-and-Ethics** - Overview of compliance requirements and ethical considerations. [➤](./8.&#32;Legal&#32;and&#32;Ethical&#32;Aspects.md)
 
 
 ## 🚀 Getting Started
